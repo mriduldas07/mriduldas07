@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 
 ###
 
+<h1 align="left">Hi 👋!</h1>
+
+###
+
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611899ghb8qgcbyhckbj78oosozwtbg9mcgmepv9gae&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
@@ -73,4 +77,5 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+###
 ###
