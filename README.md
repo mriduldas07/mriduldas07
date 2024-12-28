@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on News-portal<br>🤝 I’m looking for help with Full Stack web development<br>🌱 I’m currently learning Postgresql<br>💬 Ask me about Javascript, React, NodeJs, ExpressJs<br>⚡ Fun fact Coding is Like a Digital Symphony, Crafting Beauty Through Lines of Logic and Creativity
+🔭 I’m currently working on Ptec Notebot which is a platform to share notes<br>🤝 I’m looking for help with Full Stack web development<br>🌱 I’m currently learning Postgresql<br>💬 Ask me about Javascript, React, NodeJs, ExpressJs<br>⚡ Fun fact Coding is Like a Digital Symphony, Crafting Beauty Through Lines of Logic and Creativity
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76116fphde8kstam2ixs7vpq2du0grdwxf1832i5rauv&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
